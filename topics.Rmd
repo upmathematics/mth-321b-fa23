@@ -1,0 +1,89 @@
+---
+title: "Tentative Topics Schedule"
+author: |
+  | MTH-321 Section B
+  | Fall 2023
+  | University of Portland
+  | Alex John Quijano
+bibliography: references.bib
+csl: apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source(file.path("R","functions.R"))
+```
+
+```{r echo=FALSE}
+create_footer()
+```
+
+<br>
+
+> See Books & Online Resources Lists for the reading materials.
+>
+> The readings are not mandatory but it is encouraged.
+
+<br>The "Reading" column in the table below contains page number on which it refers to a label in the Books & Online Resources List. For example "Pgs. 58-63 [CSV]" refers to pages 58-63 of the first item in the list, which is our main text book titled "Calculus: Single Variable (7th ed)".
+
+<br>
+
+## **Topics and Materials**
+
+| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
+|---|---|---|---|---|---|
+| **1** | Tu 8/29 | Introduction & Orientation |  |  |  |
+|  | Th 8/31 |  |  |  |  |
+| **2** | Tu 9/5 |  |  |  |  |
+|  | Th 9/7 |  |  |  |  |
+| **3** | Tu 9/12 |  |  |  |  |
+|  | Th 9/14 |  |  |  |  |
+| **4** | Tu 9/19 |  |  |  |  |
+|  | Th 9/21 |  |  |  |  |
+| **5** | Tu 9/26 |  |  |  |  |
+|  | Th 9/28 | **Exam 1** |  |  |  |
+| **6** | Tu 10/3 |  |  |  |  |
+|  | Th 10/5 |  |  |  |  |
+| **7** | Tu 10/10 |  |  |  |  |
+|  | Th 10/12 |  |  |  |  |
+| **8** | Tu 10/17 | _Fall Break_ |  |  |  |
+|  | Th 10/19 | _Fall Break_ |  |  |  |
+| **9** | Tu 10/24 |  |  |  |  |
+|  | Th 10/26 |  |  |  |  |
+| **10** | Tu 10/31 | **Exam 2** |  |  |  |
+|  | Th 11/2 |  |  |  |  |
+| **11** | Tu 11/7 |  |  |  |  |
+|  | Th 11/9 |  |  |  |  |
+| **12** | Tu 11/14 |  |  |  |  |
+|  | Th 11/16 |  |  |  |  |
+| **13** | Tu 11/21 |  |  |  |  |
+|  | Th 11/23 | _Thanksgiving Vacation_ |  |  |  |
+| **14** | Tu 11/28 |  |  |  |  |
+|  | Th 11/30 | **Exam 3** |  |  |  |
+| **15** | Tu 12/5 | Review |  |  |  |
+|  | Th 12/7 | Review |  |  |  |
+| **16** | Tu 12/12 | **Final Exam<br>Tu 1:30 PM - 3:30 PM** |  |  |  |
+
+<br>
+
+## **Books & Online Resources Lists**
+
+```{r echo=FALSE}
+refs <- bibtex::read.bib("references.bib")
+```
+
+*Click on the link to access the resources.*
+
+### Textbooks
+
+[H] [`r capture.output(print(refs["hallstrom2018"]))`](https://drive.google.com/file/d/12G9cs0RQPqiXb7vjJXVH58ePJ8DZBgC1/view?usp=sharing){target="_blank"}
+
+[T] [`r capture.output(print(refs["trench2013elementary"]))`](https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1007&context=mono){target="_blank"}
+
+### Websites
+
+[C] `r capture.output(print(refs["clontz2022"]))`
+
+[P] `r capture.output(print(refs["paulodenotes"]))`
+
+<br>
