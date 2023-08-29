@@ -32,7 +32,7 @@ create_footer()
 
 | **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
 |---|---|---|---|---|---|
-| **1** | Tu 8/29 | Introduction & Orientation |  |  |  |
+| **1** | Tu 8/29 | Introduction & Orientation | Calculus Review | - | Syllabus |
 |  | Th 8/31 |  |  |  |  |
 | **2** | Tu 9/5 |  |  |  |  |
 |  | Th 9/7 |  |  |  |  |
