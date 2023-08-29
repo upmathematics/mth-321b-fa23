@@ -24,7 +24,7 @@ create_footer()
 >
 > The readings are not mandatory but it is encouraged.
 
-<br>The "Reading" column in the table below contains page number on which it refers to a label in the Books & Online Resources List. For example "Pgs. 58-63 [CSV]" refers to pages 58-63 of the first item in the list, which is our main text book titled "Calculus: Single Variable (7th ed)".
+<br>The "Reading" column in the table below contains page number on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [H]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Ordinary Differential Equations: A Primer on Dynamics and Systems".
 
 <br>
 
@@ -33,7 +33,7 @@ create_footer()
 | **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
 |---|---|---|---|---|---|
 | **1** | Tu 8/29 | Introduction & Orientation | Calculus Review | - | Syllabus |
-|  | Th 8/31 |  |  |  |  |
+|  | Th 8/31 | Modeling Physical Processes<br>and<br>Initial Value Problems & Solutions | Qualitative & Graphical Approaches | TBA | TBA |
 | **2** | Tu 9/5 |  |  |  |  |
 |  | Th 9/7 |  |  |  |  |
 | **3** | Tu 9/12 |  |  |  |  |

@@ -87,7 +87,7 @@ It is easy for me to get notice of your email if you put the keyword in the subj
 
 ### Description
 
-This course introduces the basic concepts of ordinary differential equations (ODEs) and their applications. Topics covered include: first- and second-order linear equations, systems of linear equations, laplace transforms, applications of ODEs to modeling physical processes, qualitative analysis of ODEs, including direction fields and phase portraits, and Numerical methods for solving ODEs. This course is intended for students who are interested in learning the basic theory and applications of ODEs. It is a valuable course for students who plan to major in mathematics, engineering, physics, or other science and engineering disciplines.
+This course introduces the basic concepts of ordinary differential equations (ODEs) and their applications. Topics covered include: first- and second-order linear equations, systems of linear equations, laplace transforms, applications of ODEs to modeling physical processes, qualitative analysis of ODEs, including direction fields and phase portraits, and numerical methods for solving ODEs. This course is intended for students who are interested in learning the basic theory and applications of ODEs. It is a valuable course for students who plan to major in mathematics, engineering, physics, or other science and engineering disciplines.
 
 ### Learning Objectives
 
@@ -286,7 +286,7 @@ Exam retake procedure are similar to the original exam. There are three possible
 
   * *Written only:* you just need to revise your written exam and submit your retake written exam.
   * *Oral only:* you just need to take an oral exam retake.
-  * *Both:* The written part is your revised exam and the oral part is explaining your revisions.
+  * *Both:* the written part is your revised exam and the oral part is explaining your revisions and responding to added questions from me.
 
 Here are the qualifications for exam retakes:
 
