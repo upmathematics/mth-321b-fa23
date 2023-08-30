@@ -1,10 +1,9 @@
 # directories
-docs/groupwork/
+docs/worksheet/
 docs/homework/
-docs/lab/
-docs/final-exam/
-docs/quiz/
+docs/exam/
 docs/roster/
+docs/instructor-resources/
 
 .Rproj.user
 .Rhistory

@@ -31,11 +31,11 @@ create_footer()
 ## **Topics and Materials**
 
 | **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
-|---|---|---|---|---|---|
+|---|---|:---:|---|---|---|
 | **1** | Tu 8/29 | Introduction & Orientation | Calculus Review | - | Syllabus |
-|  | Th 8/31 | Modeling Physical Processes<br>and<br>Initial Value Problems & Solutions | Qualitative & Graphical Approaches | TBA | TBA |
+|  | Th 8/31 | Modeling Physical Processes,<br>Classification of Equations, &<br>Verifying Solutions | Qualitative & Graphical Approaches | Assigned: Homework 1 | Sections 1.1.1. 1.2.3, & 1.2.5 [H]<br>Section 10.1 [T] |
 | **2** | Tu 9/5 |  |  |  |  |
-|  | Th 9/7 |  |  |  |  |
+|  | Th 9/7 |  |  | Assigned: Homework 2 |  |
 | **3** | Tu 9/12 |  |  |  |  |
 |  | Th 9/14 |  |  |  |  |
 | **4** | Tu 9/19 |  |  |  |  |
