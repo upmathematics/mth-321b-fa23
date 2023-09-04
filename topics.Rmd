@@ -35,7 +35,7 @@ create_footer()
 | **1** | Tu 8/29 | Introduction & Orientation | Calculus Review | - | Syllabus |
 |  | Th 8/31 | Modeling Physical Processes,<br>Classification of Equations, &<br>Verifying Solutions | Qualitative & Graphical Approaches | Assigned: Homework 1 | Sections 1.1.1. 1.2.3, & 1.2.5 [H]<br>Section 10.1 [T] |
 | **2** | Tu 9/5 | Equilibrium,<br> Stability, &<br> Numerical Solutions | A Numerical Approach | - | TBA |
-|  | Th 9/7 | Initial Value Problem,<br> Existence and Uniqueness, &<br> Analytical Solutions | An Anlytic Approach | Assigned: Homework 2 | TBA |
+|  | Th 9/7 | Initial Value Problem,<br> Existence and Uniqueness, &<br> Analytical Solutions | An Analytic Approach | Assigned: Homework 2 | TBA |
 | **3** | Tu 9/12 |  |  |  |  |
 |  | Th 9/14 |  |  |  |  |
 | **4** | Tu 9/19 |  |  |  |  |
