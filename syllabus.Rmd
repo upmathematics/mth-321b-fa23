@@ -211,11 +211,20 @@ Decisions about +/- cutoffs will be based on two things: your performance on the
 
 ### Worksheets
 
-There will be a worksheet for each non-exam week. The purpose of the worksheets is for in-class group work and activities. The group must submit their completed worksheet by end-of-class or end-of-day. Worksheets are graded mostly on completion, and partially on correctness. Your name must exist in your group worksheet submission.
+There will be a worksheet for each non-exam week. The purpose of the worksheets is for in-class group work and activities. The group members must submit their completed worksheet individually by end-of-class or end-of-day. Worksheets are graded mostly on completion, and partially on correctness. Your name must exist in your worksheet and the names of your collaborators.
+
+*Amendments:*
+
+  1. The sentence "The group must submit their completed worksheet by end-of-class or end-of-day" was changed to "The group members must submit their completed worksheet individually by end-of-class or end-of-day."
+  2. The sentence "Your name must exist in your group worksheet submission" was changed to "Your name must exist in your worksheet and the names of your collaborators."
 
 ### Homeworks
 
-Homework is assigned every week and due every Friday by end-of-day. You must do and submit your homework individually. Homework is graded mostly on correctness and completion.
+Homework is assigned every week and due every Friday by end-of-day, except for exam weeks. You must do and submit your homework individually. Homework is graded mostly on correctness and completion.
+
+*Amendments:*
+
+  3. The sentence "Homework is assigned every week and due every Friday by end-of-day" was changed to "Homework is assigned every week and due every Friday by end-of-day, except for exam weeks."
 
 ### Homework Revisions
 
