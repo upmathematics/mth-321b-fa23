@@ -41,7 +41,7 @@ create_footer()
 | **3** | Tu 9/12 | Solving 1st Order ODEs | Linear Differential Equations | - | TBA |
 |  | Th 9/14 | Existence and Uniqueness of 1st Order IVP | Uniqueness of Solutions | Assigned: Homework 3 | TBA |
 | **4** | Tu 9/19 | Analyzing Autonomous 1st-Order ODEs | Modeling with Autonomous Differential Equations | - | TBA |
-|  | Th 9/21 | Bifurcations in One Dimension of 1st-Order ODEs | Varying a Parameter in Autonomous 1st-Order ODEs | Assigned: Homework 4  | TBA |
+|  | Th 9/21 | Bifurcations in One Dimension of 1st-Order ODEs | Varying a Parameter in Autonomous Differential Equations | Assigned: Homework 4  | TBA |
 | **5** | Tu 9/26 | Review & Practice Exam | - | - | Exam 1 Guide |
 |  | Th 9/28 | **Exam 1** | - | - | - |
 | **6** | Tu 10/3 |  |  |  |  |
