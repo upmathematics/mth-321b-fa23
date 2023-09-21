@@ -26,6 +26,8 @@ create_footer()
 
 <br>The "Reading" column in the table below contains page number on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [H]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Ordinary Differential Equations: A Primer on Dynamics and Systems".
 
+<br>Most of the materials (worksheets and homework) of each topic was taken from Inquiry oriented differential equations (IODE) by @iode2018.
+
 <br>
 
 ## **Topics and Materials**
@@ -38,8 +40,8 @@ create_footer()
 |  | Th 9/7 | Initial Value Problem (IVP),<br> Types of Solutions, &<br> Analytical Solutions | An Analytic Approach | Assigned: Homework 2 | TBA |
 | **3** | Tu 9/12 | Solving 1st Order ODEs | Linear Differential Equations | - | TBA |
 |  | Th 9/14 | Existence and Uniqueness of 1st Order IVP | Uniqueness of Solutions | Assigned: Homework 3 | TBA |
-| **4** | Tu 9/19 | Analyzing Autonomous ODEs | Modeling with Autonomous Differential Equations | - | TBA |
-|  | Th 9/21 | Bifurcations in One Dimension | The Effect of Varying a Parameter in Autonomous Differential Equations | Assigned: Homework 4  | TBA |
+| **4** | Tu 9/19 | Analyzing Autonomous 1st-Order ODEs | Modeling with Autonomous Differential Equations | - | TBA |
+|  | Th 9/21 | Bifurcations in One Dimension of 1st-Order ODEs | Varying a Parameter in Autonomous 1st-Order ODEs | Assigned: Homework 4  | TBA |
 | **5** | Tu 9/26 | Review & Practice Exam | - | - | Exam 1 Guide |
 |  | Th 9/28 | **Exam 1** | - | - | - |
 | **6** | Tu 10/3 |  |  |  |  |
@@ -85,5 +87,11 @@ refs <- bibtex::read.bib("references.bib")
 [C] `r capture.output(print(refs["clontz2022"]))`
 
 [P] `r capture.output(print(refs["paulodenotes"]))`
+
+<br>
+
+# References
+
+<div id="refs"></div>
 
 <br>
