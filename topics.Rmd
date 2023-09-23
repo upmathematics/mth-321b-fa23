@@ -52,19 +52,19 @@ create_footer()
 |  | Th 10/19 | _Fall Break_ |  |  |  |
 | **9** | Tu 10/24 |  |  |  |  |
 |  | Th 10/26 |  |  |  |  |
-| **10** | Tu 10/31 |  |  |  |  |
-|  | Th 11/2 | **Exam 2** |  |  |  |
+| **10** | Tu 10/31 | Review & Practice Exam | - | - | Exam 2 Guide |
+|  | Th 11/2 | **Exam 2** | - | - | - |
 | **11** | Tu 11/7 |  |  |  |  |
 |  | Th 11/9 |  |  |  |  |
 | **12** | Tu 11/14 |  |  |  |  |
 |  | Th 11/16 |  |  |  |  |
 | **13** | Tu 11/21 |  |  |  |  |
 |  | Th 11/23 | _Thanksgiving Vacation_ |  |  |  |
-| **14** | Tu 11/28 |  |  |  |  |
-|  | Th 11/30 | **Exam 3** |  |  |  |
-| **15** | Tu 12/5 | Review |  |  |  |
-|  | Th 12/7 | Review |  |  |  |
-| **16** | Tu 12/12 | **Final Exam<br>Tu 1:30 PM - 3:30 PM** |  |  |  |
+| **14** | Tu 11/28 | Review & Practice Exam | - | - | Exam 3 Guide  |
+|  | Th 11/30 | **Exam 3** | - | - | - |
+| **15** | Tu 12/5 | Review | - | All Revisions Due | - |
+|  | Th 12/7 | Review & Practice Exam | - | - | Final Exam Guide |
+| **16** | Tu 12/12 | **Final Exam<br>Tu 1:30 PM - 3:30 PM** | - | - | - |
 
 <br>
 
