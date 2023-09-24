@@ -42,7 +42,7 @@ create_footer()
 |  | Th 9/14 | Existence and Uniqueness of 1st Order IVP | Uniqueness of Solutions | Assigned: Homework 3 | - |
 | **4** | Tu 9/19 | Analyzing Autonomous 1st-Order ODEs | Modeling with Autonomous Differential Equations | - | - |
 |  | Th 9/21 | Bifurcations in One Dimension of 1st-Order ODEs | Varying a Parameter in Autonomous Differential Equations |  - | - |
-| **5** | Tu 9/26 | Review & Practice Exam | - | - | Exam 1 Guide |
+| **5** | Tu 9/26 | Review & Practice | - | - | Exam 1 Guide |
 |  | Th 9/28 | **Exam 1** | - | Assigned: Homework 4 | - |
 | **6** | Tu 10/3 | Systems of 1st-Order ODEs |  |  |  |
 |  | Th 10/5 | Qualitative & Graphical Approaches of 1st-Order Linear Systems |  |  |  |
@@ -52,7 +52,7 @@ create_footer()
 |  | Th 10/19 | _Fall Break_ |  |  |  |
 | **9** | Tu 10/24 | Analytical Solutions of 1st-Order Linear Systems |  |  |  |
 |  | Th 10/26 | Numerical Solutions of 1st-Order Systems |  |  |  |
-| **10** | Tu 10/31 | Review & Practice Exam | - | - | Exam 2 Guide |
+| **10** | Tu 10/31 | Review & Practice | - | - | Exam 2 Guide |
 |  | Th 11/2 | **Exam 2** | - | - | - |
 | **11** | Tu 11/7 | Higher-Order Linear ODEs |  |  |  |
 |  | Th 11/9 | Characteristic Equations |  |  |  |
@@ -60,10 +60,10 @@ create_footer()
 |  | Th 11/16 | Fourier Series |  |  |  |
 | **13** | Tu 11/21 | Laplace Transforms |  |  |  |
 |  | Th 11/23 | _Thanksgiving Vacation_ |  |  |  |
-| **14** | Tu 11/28 | Review & Practice Exam | - | - | Exam 3 Guide  |
+| **14** | Tu 11/28 | Review & Practice | - | - | Exam 3 Guide  |
 |  | Th 11/30 | **Exam 3** | - | - | - |
 | **15** | Tu 12/5 | Review | - | All Revisions Due | - |
-|  | Th 12/7 | Review & Practice Exam | - | - | Final Exam Guide |
+|  | Th 12/7 | Review & Practice | - | - | Final Exam Guide |
 | **16** | Tu 12/12 | **Final Exam<br>Tu 1:30 PM - 3:30 PM** | - | - | - |
 
 <br>
