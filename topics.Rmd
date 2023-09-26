@@ -42,7 +42,7 @@ create_footer()
 |  | Th 9/14 | [Existence and Uniqueness of 1st Order IVP](class-notes/Existence and Uniqueness of 1st-Order IVP.pdf){target="_blank"} | Uniqueness of Solutions | Assigned: Homework 3 | - |
 | **4** | Tu 9/19 | [Analyzing Autonomous 1st-Order ODEs](class-notes/Analyzing Autonomous 1st-Order ODEs.pdf){target="_blank"} | Modeling with Autonomous Differential Equations | - | - |
 |  | Th 9/21 | [Bifurcations in One Dimension](class-notes/Bifurcations in One Dimension of 1st-Order ODEs.pdf){target="_blank"} | Varying a Parameter in Autonomous Differential Equations |  - | - |
-| **5** | Tu 9/26 | Review | [Exam 1 Examples](exam/exam-1-examples-mth321-fa23.pdf){target="_blank"} | - | [Exam 1 Guide](exam/exam-1-guide-mth321-fa23.pdf){target="_blank"} |
+| **5** | Tu 9/26 | Review | Exam 1 Examples | - | Exam 1 Guide |
 |  | Th 9/28 | **Exam 1** | - | - | - |
 | **6** | Tu 10/3 | Systems of 1st-Order ODEs | TBA | - | - |
 |  | Th 10/5 | Qualitative & Graphical Approaches of 1st-Order Linear Systems | TBA | Assigned: Homework 4 | - |
