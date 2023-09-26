@@ -35,14 +35,14 @@ create_footer()
 | **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
 |---|---|:---:|---|---|---|
 | **1** | Tu 8/29 | Introduction & Orientation to Ordinary Differential Equations (ODEs) | Calculus Review | - | Syllabus |
-|  | Th 8/31 | Modeling Physical Processes,<br>Classification of Equations, &<br>Verifying Solutions | Qualitative & Graphical Approaches | Assigned: Homework 1 | - |
-| **2** | Tu 9/5 | Equilibrium,<br> Stability, &<br> Numerical Solutions | A Numerical Approach | - | - |
-|  | Th 9/7 | Initial Value Problem (IVP),<br> Types of Solutions, &<br> Analytical Solutions | An Analytic Approach | Assigned: Homework 2 | - |
-| **3** | Tu 9/12 | Solving 1st Order ODEs | Linear Differential Equations | - | - |
-|  | Th 9/14 | Existence and Uniqueness of 1st Order IVP | Uniqueness of Solutions | Assigned: Homework 3 | - |
-| **4** | Tu 9/19 | Analyzing Autonomous 1st-Order ODEs | Modeling with Autonomous Differential Equations | - | - |
-|  | Th 9/21 | Bifurcations in One Dimension | Varying a Parameter in Autonomous Differential Equations |  - | - |
-| **5** | Tu 9/26 | Review | Exam 1 Examples | - | Exam 1 Guide |
+|  | Th 8/31 | [Modeling Physical Processes,<br>Classification of Equations, &<br>Verifying Solutions](class-notes/Modeling Physical Processes, Classification of Equations, & Verifying Solutions.pdf){target="_blank"} | Qualitative & Graphical Approaches| Assigned: Homework 1 | - |
+| **2** | Tu 9/5 | [Equilibrium,<br> Stability, &<br> Numerical Solutions](class-notes/Equilibrium, Stability, & Numerical Solutions.pdf){target="_blank"} | A Numerical Approach | - | - |
+|  | Th 9/7 | [Initial Value Problem (IVP),<br> Types of Solutions, &<br> Analytical Solutions](class-notes/Initial Value Problem, Types of Solutions, & Analytical Solutions.pdf){target="_blank"} | An Analytic Approach | Assigned: Homework 2 | - |
+| **3** | Tu 9/12 | [Solving 1st Order ODEs](class-notes/Solving 1st Order ODEs.pdf){target="_blank"} | Linear Differential Equations | - | - |
+|  | Th 9/14 | [Existence and Uniqueness of 1st Order IVP](class-notes/Existence and Uniqueness of 1st-Order IVP.pdf){target="_blank"} | Uniqueness of Solutions | Assigned: Homework 3 | - |
+| **4** | Tu 9/19 | [Analyzing Autonomous 1st-Order ODEs](class-notes/Analyzing Autonomous 1st-Order ODEs.pdf){target="_blank"} | Modeling with Autonomous Differential Equations | - | - |
+|  | Th 9/21 | [Bifurcations in One Dimension](class-notes/Bifurcations in One Dimension of 1st-Order ODEs.pdf){target="_blank"} | Varying a Parameter in Autonomous Differential Equations |  - | - |
+| **5** | Tu 9/26 | Review | [Exam 1 Examples](exam/exam-1-examples-mth321-fa23.pdf){target="_blank"} | - | [Exam 1 Guide](exam/exam-1-guide-mth321-fa23.pdf){target="_blank"} |
 |  | Th 9/28 | **Exam 1** | - | - | - |
 | **6** | Tu 10/3 | Systems of 1st-Order ODEs | TBA | - | - |
 |  | Th 10/5 | Qualitative & Graphical Approaches of 1st-Order Linear Systems | TBA | Assigned: Homework 4 | - |
@@ -63,7 +63,7 @@ create_footer()
 | **14** | Tu 11/28 | Review | Exam 3 Examples | - | Exam 3 Guide  |
 |  | Th 11/30 | **Exam 3** | - | - | - |
 | **15** | Tu 12/5 | Review | - | All Revisions & Retakes Due | - |
-|  | Th 12/7 | Review & Examples | - | - | Final Exam Guide |
+|  | Th 12/7 | Review | Final Exam Examples | - | Final Exam Guide |
 | **16** | Tu 12/12 | **Final Exam<br>Tu 1:30 PM - 3:30 PM** | - | - | - |
 
 <br>
