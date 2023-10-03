@@ -44,7 +44,7 @@ create_footer()
 |  | Th 9/21 | [Bifurcations in One Dimension](class-notes/Bifurcations in One Dimension of 1st-Order ODEs.pdf){target="_blank"} | Varying a Parameter in Autonomous Differential Equations |  - | - |
 | **5** | Tu 9/26 | Review | Exam 1 Examples | - | Exam 1 Guide |
 |  | Th 9/28 | **Exam 1** | - | - | - |
-| **6** | Tu 10/3 | Systems of 1st-Order ODEs | TBA | - | - |
+| **6** | Tu 10/3 | Systems of 1st-Order ODEs | Introduction to Systems | - | - |
 |  | Th 10/5 | Qualitative & Graphical Approaches of 1st-Order Linear Systems | TBA | Assigned: Homework 4 | - |
 | **7** | Tu 10/10 | Complex Exponentials & Eigentheory | TBA | - | - |
 |  | Th 10/12 | Equilibrium Solutions and Stability of 1st-Order Linear Systems | TBA | Assigned: Homework 5 | - |
