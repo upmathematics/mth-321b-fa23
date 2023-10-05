@@ -45,7 +45,7 @@ create_footer()
 | **5** | Tu 9/26 | Review | Exam 1 Examples | - | Exam 1 Guide |
 |  | Th 9/28 | **Exam 1** | - | - | - |
 | **6** | Tu 10/3 | Systems of 1st-Order ODEs | Introduction to Systems | - | - |
-|  | Th 10/5 | Qualitative & Graphical Approaches of 1st-Order Linear Systems | TBA | Assigned: Homework 4 | - |
+|  | Th 10/5 | Qualitative & Graphical Approaches of 1st-Order Linear Systems | Spring Mass System and Linear Systems | Assigned: Homework 4 | - |
 | **7** | Tu 10/10 | Complex Exponentials & Eigentheory | TBA | - | - |
 |  | Th 10/12 | Equilibrium Solutions and Stability of 1st-Order Linear Systems | TBA | Assigned: Homework 5 | - |
 | **8** | Tu 10/17 | _Fall Break_ | - | - | - |
