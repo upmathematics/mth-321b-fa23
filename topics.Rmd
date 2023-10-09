@@ -45,19 +45,19 @@ create_footer()
 | **5** | Tu 9/26 | Review | Exam 1 Examples | - | Exam 1 Guide |
 |  | Th 9/28 | **Exam 1** | - | - | - |
 | **6** | Tu 10/3 | Systems of 1st-Order ODEs | Introduction to Systems | - | - |
-|  | Th 10/5 | Qualitative & Graphical Approaches of 1st-Order Linear Systems | Spring Mass System and Linear Systems | Assigned: Homework 4 | - |
+|  | Th 10/5 | Qualitative & Graphical Approaches of 1st-Order Linear Systems | Spring Mass System and Linear Systems | - | - |
 | **7** | Tu 10/10 | Complex Exponentials & Eigentheory | TBA | - | - |
-|  | Th 10/12 | Equilibrium Solutions and Stability of 1st-Order Linear Systems | TBA | Assigned: Homework 5 | - |
+|  | Th 10/12 | Equilibrium Solutions and Stability of 1st-Order Linear Systems | TBA | Assigned: Homework 4 | - |
 | **8** | Tu 10/17 | _Fall Break_ | - | - | - |
-|  | Th 10/19 | _Fall Break_ | - | Assigned: Homework 6 | - |
+|  | Th 10/19 | _Fall Break_ | - | Assigned: Homework 5 | - |
 | **9** | Tu 10/24 | Bifurcations in Two Dimensions | TBA | - | - |
 |  | Th 10/26 | Analytical & Numerical Solutions of 1st-Order Linear Systems | TBA | - | - |
 | **10** | Tu 10/31 | Review | Exam 2 Examples | - | Exam 2 Guide |
 |  | Th 11/2 | **Exam 2** | - | - | - |
 | **11** | Tu 11/7 | Higher-Order Linear ODEs | TBA | - | - |
-|  | Th 11/9 | Characteristic Equations | TBA | Assigned: Homework 7 | - |
+|  | Th 11/9 | Characteristic Equations | TBA | Assigned: Homework 6 | - |
 | **12** | Tu 11/14 | Variation of Parameters & Undetermined Coefficients | TBA | - | - |
-|  | Th 11/16 | Fourier Series | TBA | Assigned: Homework 8 | - |
+|  | Th 11/16 | Fourier Series | TBA | Assigned: Homework 7 | - |
 | **13** | Tu 11/21 | Laplace Transforms | TBA | - | - |
 |  | Th 11/23 | _Thanksgiving Vacation_ | - | - | - |
 | **14** | Tu 11/28 | Review | Exam 3 Examples | - | Exam 3 Guide  |
