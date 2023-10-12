@@ -44,9 +44,9 @@ create_footer()
 |  | Th 9/21 | [Bifurcations in One Dimension](class-notes/Bifurcations in One Dimension of 1st-Order ODEs.pdf){target="_blank"} | Varying a Parameter in Autonomous Differential Equations |  - | - |
 | **5** | Tu 9/26 | Review | Exam 1 Examples | - | Exam 1 Guide |
 |  | Th 9/28 | **Exam 1** | - | - | - |
-| **6** | Tu 10/3 | Systems of 1st-Order ODEs | Introduction to Systems | - | - |
-|  | Th 10/5 | Qualitative & Graphical Approaches of 1st-Order Linear Systems | Spring Mass System and Linear Systems | - | - |
-| **7** | Tu 10/10 | Real & Complex Exponential Solutions of 1st-Order Linear Systems | TBA | - | - |
+| **6** | Tu 10/3 | [Systems of 1st-Order ODEs](class-notes/Systems of 1st-Order ODEs.pdf){target="_blank"} | Introduction to Systems | - | - |
+|  | Th 10/5 | [Qualitative & Graphical Approaches of 1st-Order Linear Systems](class-notes/Qualitative & Graphical Approaches of 1st-Order Linear Systems.pdf){target="_blank"} | Spring Mass System and Linear Systems | - | - |
+| **7** | Tu 10/10 | [Real & Complex Exponential Solutions of 1st-Order Linear Systems](class-notes/Real & Complex Exponential Solutions of 1st-Order Linear Systems.pdf){target="_blank"} | Damped and Undamped Linear Systems | - | - |
 |  | Th 10/12 | *Cancelled* | - | Assigned: Homework 4 | - |
 | **8** | Tu 10/17 | _Fall Break_ | - | - | - |
 |  | Th 10/19 | _Fall Break_ | - | - | - |
