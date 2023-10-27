@@ -50,8 +50,8 @@ create_footer()
 |  | Th 10/12 | *Cancelled* | - | Assigned: Homework 4 | - |
 | **8** | Tu 10/17 | _Fall Break_ | - | - | - |
 |  | Th 10/19 | _Fall Break_ | - | - | - |
-| **9** | Tu 10/24 | [Eigentheory & Equilibrium of 1st-Order Linear Systems](Eigentheory & Equilibrium of 1st-Order Linear Systems.pdf){target="_blank"} | Eigentheory Applied to Linear Systems | - | - |
-|  | Th 10/26 | [Stability Analysis of 1st-Order Linear Systems](Stability Analysis of 1st-Order Linear Systems.pdf){target="_blank"} | Stability of Equilibrium | Assigned: Homework 5 | - |
+| **9** | Tu 10/24 | [Eigentheory & Equilibrium of 1st-Order Linear Systems](class-notes/Eigentheory & Equilibrium of 1st-Order Linear Systems.pdf){target="_blank"} | Eigentheory Applied to Linear Systems | - | - |
+|  | Th 10/26 | [Stability Analysis of 1st-Order Linear Systems](class-notes/Stability Analysis of 1st-Order Linear Systems.pdf){target="_blank"} | Stability of Equilibrium | Assigned: Homework 5 | - |
 | **10** | Tu 10/31 | Review | Exam 2 Examples | - | Exam 2 Guide |
 |  | Th 11/2 | **Exam 2** | - | - | - |
 | **11** | Tu 11/7 | Higher-Order Linear ODEs & Characteristic Equations | TBA | - | - |
