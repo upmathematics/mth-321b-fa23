@@ -54,8 +54,8 @@ create_footer()
 |  | Th 10/26 | [Stability Analysis of 1st-Order Linear Systems](class-notes/Stability Analysis of 1st-Order Linear Systems.pdf){target="_blank"} | Stability of Equilibrium | - | - |
 | **10** | Tu 10/31 | Review | Exam 2 Examples | - | Exam 2 Guide |
 |  | Th 11/2 | **Exam 2** | - | - | - |
-| **11** | Tu 11/7 | Higher-Order ODEs & Characteristic Equations | Homogeneous and Nonhomogeneous Solutions | - | - |
-|  | Th 11/9 | Undetermined Coefficients | Determining the Undetermined | Assigned: Homework 5 | - |
+| **11** | Tu 11/7 | [Higher-Order ODEs & Characteristic Equations](class-notes/Higher-Order ODEs & Characteristic Equations.pdf){target="_blank"} | Homogeneous and Nonhomogeneous Solutions | - | - |
+|  | Th 11/9 | [Undetermined Coefficients](class-notes/Undetermined Coefficients.pdf){target="_blank"} | Determining the Undetermined | Assigned: Homework 5 | - |
 | **12** | Tu 11/14 | Variation of Parameters | Varying the Parameters | - | - |
 |  | Th 11/16 | Laplace Transforms | TBA | Assigned: Homework 6 | - |
 | **13** | Tu 11/21 | Equilibrium Stability, &<br>Graphical Approaches of Higher-Order ODEs | TBA | - | - |
