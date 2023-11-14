@@ -56,7 +56,7 @@ create_footer()
 |  | Th 11/2 | **Exam 2** | - | - | - |
 | **11** | Tu 11/7 | Higher-Order ODEs & Characteristic Equations | Homogeneous and Nonhomogeneous Solutions | - | - |
 |  | Th 11/9 | Undetermined Coefficients | Determining the Undetermined | Assigned: Homework 5 | - |
-| **12** | Tu 11/14 | Variation of Parameters | TBA | - | - |
+| **12** | Tu 11/14 | Variation of Parameters | Varying the Parameters | - | - |
 |  | Th 11/16 | Laplace Transforms | TBA | Assigned: Homework 6 | - |
 | **13** | Tu 11/21 | Equilibrium Stability, &<br>Graphical Approaches of Higher-Order ODEs | TBA | - | - |
 |  | Th 11/23 | _Thanksgiving Vacation_ | - | - | - |
