@@ -36,8 +36,8 @@ create_footer()
 |---|---|:---:|---|---|---|
 | **1** | Tu 8/29 | Introduction & Orientation to Ordinary Differential Equations (ODEs) | Calculus Review | - | Syllabus |
 |  | Th 8/31 | [Modeling Physical Processes,<br>Classification of Equations, &<br>Verifying Solutions](class-notes/Modeling Physical Processes, Classification of Equations, & Verifying Solutions.pdf){target="_blank"} | Qualitative & Graphical Approaches| Assigned: Homework 1 | - |
-| **2** | Tu 9/5 | [Equilibrium,<br> Stability, &<br> Numerical Solutions](class-notes/Equilibrium, Stability, & Numerical Solutions.pdf){target="_blank"} | A Numerical Approach | - | - |
-|  | Th 9/7 | [Initial Value Problem (IVP),<br> Types of Solutions, &<br> Analytical Solutions](class-notes/Initial Value Problem, Types of Solutions, & Analytical Solutions.pdf){target="_blank"} | An Analytic Approach | Assigned: Homework 2 | - |
+| **2** | Tu 9/5 | [Graphical Approaches,<br>Equilibrium Stability, &<br>Numerical Solutions](class-notes/Equilibrium, Stability, & Numerical Solutions.pdf){target="_blank"} | A Numerical Approach | - | - |
+|  | Th 9/7 | [Initial Value Problem (IVP),<br>Types of Solutions, &<br>Analytical Solutions](class-notes/Initial Value Problem, Types of Solutions, & Analytical Solutions.pdf){target="_blank"} | An Analytic Approach | Assigned: Homework 2 | - |
 | **3** | Tu 9/12 | [Solving 1st Order ODEs](class-notes/Solving 1st Order ODEs.pdf){target="_blank"} | Linear Differential Equations | - | - |
 |  | Th 9/14 | [Existence and Uniqueness of 1st Order IVP](class-notes/Existence and Uniqueness of 1st-Order IVP.pdf){target="_blank"} | Uniqueness of Solutions | Assigned: Homework 3 | - |
 | **4** | Tu 9/19 | [Analyzing Autonomous 1st-Order ODEs](class-notes/Analyzing Autonomous 1st-Order ODEs.pdf){target="_blank"} | Modeling with Autonomous Differential Equations | - | - |
@@ -58,12 +58,12 @@ create_footer()
 |  | Th 11/9 | Undetermined Coefficients | Determining the Undetermined | Assigned: Homework 5 | - |
 | **12** | Tu 11/14 | Variation of Parameters | TBA | - | - |
 |  | Th 11/16 | Laplace Transforms | TBA | Assigned: Homework 6 | - |
-| **13** | Tu 11/21 | Power Series and Fourier Series Methods | TBA | - | - |
+| **13** | Tu 11/21 | Equilibrium Stability, &<br>Graphical Approaches of Higher-Order ODEs | TBA | - | - |
 |  | Th 11/23 | _Thanksgiving Vacation_ | - | - | - |
 | **14** | Tu 11/28 | Review | Exam 3 Examples | - | Exam 3 Guide  |
 |  | Th 11/30 | **Exam 3** | - | - | - |
-| **15** | Tu 12/5 | Non-Linear Systems of ODEs | - | All Revisions & Retakes Due | - |
-|  | Th 12/7 | Review | Final Exam Examples | - | Final Exam Guide |
+| **15** | Tu 12/5 | Power Series and Fourier Series Methods | - | All Revisions & Retakes Due | - |
+|  | Th 12/7 | Non-Linear Systems of ODEs | Final Exam Examples | - | Final Exam Guide |
 | **16** | Tu 12/12 | **Final Exam<br>Tu 1:30 PM - 3:30 PM** | - | - | - |
 
 <br>
