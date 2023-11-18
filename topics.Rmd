@@ -57,12 +57,12 @@ create_footer()
 | **11** | Tu 11/7 | [Higher-Order ODEs & Characteristic Equations](class-notes/Higher-Order ODEs & Characteristic Equations.pdf){target="_blank"} | Homogeneous and Nonhomogeneous Solutions | - | - |
 |  | Th 11/9 | [Undetermined Coefficients](class-notes/Undetermined Coefficients.pdf){target="_blank"} | Determining the Undetermined | Assigned: Homework 5 | - |
 | **12** | Tu 11/14 | [Variation of Parameters](class-notes/Variation of Parameters.pdf){target="_blank"} | Varying the Parameters | - | - |
-|  | Th 11/16 | Laplace Transforms | Transforming Derivatives à la Laplace | Assigned: Homework 6 | - |
-| **13** | Tu 11/21 | Equilibrium Stability, &<br>Graphical Approaches of Higher-Order ODEs | TBA | - | - |
+|  | Th 11/16 | Laplace Transforms | Transforming Derivatives à la Laplace | - | - |
+| **13** | Tu 11/21 | Graphical Approaches of Higher-Order ODEs | Converting $n$th-Order ODE into 1st-Order System of ODEs | Assigned: Homework 6 | - |
 |  | Th 11/23 | _Thanksgiving Vacation_ | - | - | - |
 | **14** | Tu 11/28 | Review | Exam 3 Examples | - | Exam 3 Guide  |
 |  | Th 11/30 | **Exam 3** | - | - | - |
-| **15** | Tu 12/5 | Power Series Method, Fourier Series Techniques, &<br> Non-Linear Systems of ODEs | - | All Revisions & Retakes Due | - |
+| **15** | Tu 12/5 | Non-Linear ODEs and Systems | Exploring Non-Linearity | All Revisions & Retakes Due | - |
 |  | Th 12/7 | Review | Final Exam Examples | - | Final Exam Guide |
 | **16** | Tu 12/12 | **Final Exam<br>Tu 1:30 PM - 3:30 PM** | - | - | - |
 
