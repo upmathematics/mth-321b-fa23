@@ -62,9 +62,9 @@ create_footer()
 |  | Th 11/23 | _Thanksgiving Vacation_ | - | - | - |
 | **14** | Tu 11/28 | Review | Exam 3 Examples | - | Exam 3 Guide  |
 |  | Th 11/30 | **Exam 3** | - | - | - |
-| **15** | Tu 12/5 | Numerical Methods & Non-Linear ODEs and Systems | Exploring Non-Linearity | All Revisions & Retakes Due | - |
-|  | Th 12/7 | Review | Final Exam Examples | - | Final Exam Guide |
-| **16** | Tu 12/12 | **Final Exam<br>Tu 1:30 PM - 3:30 PM** | - | - | - |
+| **15** | Tu 12/5 | Review | - | - | - |
+|  | Th 12/7 | Review | - | All Revisions & Retakes Due | Final Exam Guide |
+| **16** | Tu 12/12 | **Final Exam Oral Part<br>Tu 1:30 PM - 3:30 PM** | - | - | - |
 
 <br>
 
